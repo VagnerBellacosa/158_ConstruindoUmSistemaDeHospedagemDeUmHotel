@@ -38,4 +38,5 @@ Expert, DIO[**](https://www.linkedin.com/in/leonardo-buta/) [**](https://g
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Desafio de projeto: Construindo um sistema de hospedagem de um hotel no C#](https://web.dio.me/lab/desafio-de-projeto/learning/abbfc217-49a4-432a-a39f-b3ead8f22029)[Entendendo o Desafio e Materiais Complementares](https://web.dio.me/lab/desafio-de-projeto/learning/4cba01c2-4f8c-43ee-9876-88beea1ee5d7)
+- [Desafio de projeto: Construindo um sistema de hospedagem de um hotel no C#](https://web.dio.me/lab/desafio-de-projeto/learning/abbfc217-49a4-432a-a39f-b3ead8f22029)
+- [Entendendo o Desafio e Materiais Complementares](https://web.dio.me/lab/desafio-de-projeto/learning/4cba01c2-4f8c-43ee-9876-88beea1ee5d7)
